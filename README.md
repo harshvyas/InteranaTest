@@ -15,5 +15,6 @@ answers! In the field it's always about "getting it done".
 
 2) Please repeat the exercise, but focus on using UNIX command line tools. You should be using Linux and
 ideally python or bash scripting to locate the records.
+
 Once 1 and 2 are completed, discuss how you would convert the JSON data to CSV and what the best way
 to do that would be. Provide as much detail about the decision as possible.
